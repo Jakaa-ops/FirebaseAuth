@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "791832310573",
+    "firebase_url": "https://login-signup-auth-24b5d-default-rtdb.firebaseio.com",
+    "project_id": "login-signup-auth-24b5d",
+    "storage_bucket": "login-signup-auth-24b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791832310573:android:6c5a9e8db93c77b08d19a4",
+        "android_client_info": {
+          "package_name": "com.jakaa.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791832310573-4b86k6a29k89bnf2e757ggmv0oshnsl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYKA5tfWNccxPEpIEZyQMNEqREz5p7-aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791832310573-4b86k6a29k89bnf2e757ggmv0oshnsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791832310573:android:5f4851d106bfbf918d19a4",
+        "android_client_info": {
+          "package_name": "com.jakaa.loginandsignupfirebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791832310573-4b86k6a29k89bnf2e757ggmv0oshnsl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYKA5tfWNccxPEpIEZyQMNEqREz5p7-aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791832310573-4b86k6a29k89bnf2e757ggmv0oshnsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791832310573:android:ae7c2f6dde9c13728d19a4",
+        "android_client_info": {
+          "package_name": "com.jakaa.loginsignupauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791832310573-4b86k6a29k89bnf2e757ggmv0oshnsl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYKA5tfWNccxPEpIEZyQMNEqREz5p7-aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791832310573-4b86k6a29k89bnf2e757ggmv0oshnsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
